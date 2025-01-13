@@ -28,6 +28,8 @@ fastcore==1.7.28
     #   python-fasthtml
 fastlite==0.1.1
     # via python-fasthtml
+fort==2024.2
+    # via -r requirements.in
 h11==0.14.0
     # via
     #   httpcore
