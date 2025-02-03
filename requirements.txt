@@ -13,7 +13,7 @@ apsw==3.48.0.0
     # via apswutils
 apswutils==0.0.2
     # via fastlite
-beautifulsoup4==4.12.3
+beautifulsoup4==4.13.1
     # via python-fasthtml
 certifi==2024.12.14
     # via
@@ -68,6 +68,8 @@ soupsieve==2.6
     # via beautifulsoup4
 starlette==0.45.3
     # via python-fasthtml
+typing-extensions==4.12.2
+    # via beautifulsoup4
 uvicorn==0.34.0
     # via python-fasthtml
 uvloop==0.21.0
