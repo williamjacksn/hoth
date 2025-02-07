@@ -9,7 +9,7 @@ anyio==4.8.0
     #   httpx
     #   starlette
     #   watchfiles
-apsw==3.48.0.0
+apsw==3.49.0.0
     # via apswutils
 apswutils==0.0.2
     # via fastlite
